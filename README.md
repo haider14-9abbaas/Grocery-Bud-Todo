@@ -14,7 +14,7 @@ Fully responsive, built using **HTML5, CSS3, Bootstrap 5, and JavaScript**.
 
 ## 📸 Demo
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://haider14-9abbaas.github.io/Grocery-Bud-Todo/)
 
 ## 💻 Technologies
 
@@ -31,7 +31,7 @@ Syed Haider Abbas
 
 ## 🔗 Links
 
-- [Live Demo](https://your-live-demo-link.com)
-- [GitHub Repo](https://github.com/haider14-9abbaas/your-grocery-bud-repo)
+- [Live Demo](https://haider14-9abbaas.github.io/Grocery-Bud-Todo/)
+- [GitHub Repo](https://github.com/haider14-9abbaas/Grocery-Bud-Todo)
 
 ---
